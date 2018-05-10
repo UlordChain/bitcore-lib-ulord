@@ -106,7 +106,6 @@
     "inherits": "=2.0.1",
     "lodash": "=3.10.1",
     "sha512": "=0.0.1",
-    "x11-hash-js": "^1.0.0",
     "multi-hashing": "git://github.com/UlordChain/node-multi-hashing.git"
   },
   "devDependencies": {
