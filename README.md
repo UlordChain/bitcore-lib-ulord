@@ -49,9 +49,6 @@ We're using Bitcore in production, as are [many others](http://bitcore.io#projec
 
 If you find a security issue, please email security@bitpay.com.
 
-## Contributing
-
-Please send pull requests for bug fixes, code optimization, and ideas for improvement. For more information on how to contribute, please refer to our [CONTRIBUTING](https://github.com/UlordChain/bitcore-lib-ulord/blob/master/CONTRIBUTING.md) file.
 
 ## Building the Browser Bundle
 
