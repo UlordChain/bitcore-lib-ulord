@@ -14,11 +14,7 @@ Ulord is a powerful new peer-to-peer platform for the next generation of financi
 ## Get Started
 
 ```
-npm install bitcore-lib-ulord
-```
-
-```
-bower install bitcore-lib-ulord
+git clone https://github.com/UlordChain/bitcore-lib-ulord.git
 ```
 
 ## Documentation
