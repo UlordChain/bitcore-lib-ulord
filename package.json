@@ -1,10 +1,10 @@
 {
   "name": "bitcore-lib-ulord",
-  "version": "0.2.0",
+  "version": "1.0.5",
   "description": "A pure and powerful JavaScript Ulord library.",
   "author": {
-    "name": "BitPay",
-    "email": "dev@bitpay.com"
+    "name": "Jack chen",
+    "email": "278910933@qq.com"
   },
   "main": "index.js",
   "scripts": {
@@ -106,11 +106,10 @@
     "inherits": "=2.0.1",
     "lodash": "=3.10.1",
     "sha512": "=0.0.1",
-    "x11-hash-js": "^1.0.0",
     "multi-hashing": "git://github.com/UlordChain/node-multi-hashing.git"
   },
   "devDependencies": {
-    "bitcore-build-ulord": "github:UlordChain/bitcore-build-ulord",
+    "bitcore-build-ulord": "^0.1.0",
     "browserify": "latest",
     "brfs": "^1.2.0",
     "chai": "^1.10.0",
