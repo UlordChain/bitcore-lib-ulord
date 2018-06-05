@@ -11,7 +11,11 @@ A pure and powerful JavaScript Ulord library.
 
 Ulord is a powerful new peer-to-peer platform for the next generation of financial technology. The decentralized nature of the Ulord network allows for highly resilient ulord infrastructure, and the developer community needs reliable, open-source tools to implement ulord apps and services.
 
-## Get Started
+## Quick development guide
+
+Please refer to [https://github.com/UlordChain/insight-ui-ulord/wiki](https://github.com/UlordChain/insight-ui-ulord/wiki), and you will know how to build a block browser.
+
+## Start
 
 ```
 git clone https://github.com/UlordChain/bitcore-lib-ulord.git
