@@ -1,6 +1,6 @@
 {
   "name": "bitcore-lib-ulord",
-  "version": "0.1.0",
+  "version": "1.0.7",
   "dependencies": {
     "bn.js": {
       "version": "2.0.4",
@@ -48,11 +48,6 @@
       "version": "0.0.1",
       "from": "https://registry.npmjs.org/sha512/-/sha512-0.0.1.tgz",
       "resolved": "https://registry.npmjs.org/sha512/-/sha512-0.0.1.tgz"
-    },
-    "x11-hash-js": {
-      "version": "1.0.0",
-      "from": "https://registry.npmjs.org/x11-hash-js/-/x11-hash-js-1.0.0.tgz",
-      "resolved": "https://registry.npmjs.org/x11-hash-js/-/x11-hash-js-1.0.0.tgz"
     }
   }
 }

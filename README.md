@@ -1,4 +1,4 @@
-Bitcore-Ulord Library
+Ulord Library
 =======
 
 [![NPM Package](https://img.shields.io/npm/v/bitcore-lib-ulord.svg?style=flat-square)](https://www.npmjs.org/package/bitcore-lib-ulord)

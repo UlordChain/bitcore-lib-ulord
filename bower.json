@@ -1,19 +1,19 @@
 {
-  "name": "bitcore-lib",
-  "main": "./bitcore-lib.min.js",
-  "version": "0.13.20",
-  "homepage": "http://bitcore.io",
+  "name": "bitcore-lib-ulord",
+  "main": "./bitcore-lib-ulord.min.js",
+  "version": "1.0.7",
+  "homepage": "https://github.com/UlordChain",
   "authors": [
-    "BitPay, Inc."
+    "Jack chen, Inc."
   ],
-  "description": "A pure, powerful core for your bitcoin project.",
+  "description": "A pure, powerful core for your ulord project.",
   "moduleType": [
     "globals"
   ],
   "keywords": [
-    "bitcoin",
+    "ulord",
     "bitcore",
-    "btc",
+    "ut",
     "satoshi"
   ],
   "license": "MIT",
